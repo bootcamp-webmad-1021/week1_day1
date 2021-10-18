@@ -28,13 +28,12 @@ h2 {
   font-weight: 100;
   letter-spacing: 1.5px;
   margin-bottom: 20px;
-} */
-
+} 
+*/
 
 section {
   padding-bottom: 40px;
 }
-
 
 a {
   color: black;
@@ -60,7 +59,6 @@ a {
 }
 
 .btn.blue-btn {
-  
   background-color: blue;
 }
 
